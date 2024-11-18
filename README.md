@@ -7,6 +7,7 @@
 - 
 - 💻 Skills and Tools:
 o Languages: Java, SQL
+
 o Frameworks: Spring Boot, Hibernate
 o Tools: Git, GitHub, Maven
 o Testing: JUnit
