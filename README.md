@@ -6,15 +6,17 @@
 - ⚡ Fun fact: I love combining my coding time with good music playlists!
 - 
 - 💻 Skills and Tools:
-o Languages: Java, SQL
-
-o Frameworks: Spring Boot, Hibernate
-o Tools: Git, GitHub, Maven
-o Testing: JUnit
-o Databases: MySQL, PostgreSQL
-
+  o Languages: Java, SQL
+  o Frameworks: Spring Boot, Hibernate
+  o Tools: Git, GitHub, Maven
+  o Testing: JUnit
+  o Databases: MySQL, PostgreSQL
+  
 - 📫 How to reach me ...
-o GitHub: @MehranaSafaei
-o LinkedIn: in/mhrnasfe
-o Email: fatemeh.safaeiiiii@gmail.com
+  o GitHub: @MehranaSafaei
+  o LinkedIn: in/mhrnasfe
+  o Email: fatemeh.safaeiiiii@gmail.com
+
+
+
 
