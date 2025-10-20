@@ -2,7 +2,7 @@
 - 👀 I’m a Junior Java Developer passionate about building efficient and scalable applications.
 - 🌱 I’m currently learning java and Spring Boot and deepening my knowledge of Java best practices.
 - 💞️ I’m looking to collaborate on projects where I can contribute to backend development and gain more real-world experience.
-- 📫 How to reach me fatemeh.safaeiiiii@gmail.com
+- 📫 How to reach me fatemehsafaeix@gmail.com
   
 - 💻 Skills and Tools:
   
